@@ -1,6 +1,8 @@
 
 # Bank Fraud Detection Project
 
+## Dataset : https://www.kaggle.com/datasets/ealaxi/paysim1
+
 ## Project Overview
 
 This project focuses on detecting fraudulent transactions within a banking dataset. The analysis leverages various attributes of transactions to identify patterns indicative of fraud. The dataset simulates transactions over a 30-day period, providing insights into the behaviors of legitimate and fraudulent activities.
